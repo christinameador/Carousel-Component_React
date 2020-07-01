@@ -1,4 +1,4 @@
-## React carousel component
+## Carousel Component built using ReactJS
 
 Steps to install :
 
